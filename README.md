@@ -1,20 +1,18 @@
-# Atividade---Davi
-sistema-controle-estoque
 # Sistema de Controle de Estoque
 
 ## 📋 Descrição
 
-Projeto acadêmico desenvolvido em grupo com o objetivo de criar
-um sistema para auxiliar no controle de estoque de uma adega.
+Projeto acadêmico desenvolvido em grupo com o objetivo de criar um
+sistema web para auxiliar no controle e gerenciamento de estoque
+de uma adega.
 
-O sistema permite organizar informações relacionadas aos produtos
-e facilitar o gerenciamento do estoque.
+A aplicação busca facilitar a organização dos produtos e das
+informações relacionadas ao estoque.
 
 ## 🎯 Objetivo
 
-Desenvolver uma aplicação simples para auxiliar no controle e
-organização dos produtos de uma adega, utilizando tecnologias
-web.
+Desenvolver uma aplicação web simples para auxiliar no gerenciamento
+de produtos e no controle de estoque.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -24,7 +22,7 @@ web.
 
 ## 📁 Estrutura do projeto
 
-- `index.html` — estrutura das páginas da aplicação.
+- `index.html` — estrutura da aplicação.
 - `styles.css` — estilos e aparência da aplicação.
 - `app.js` — funcionalidades e lógica do sistema.
 
@@ -39,14 +37,11 @@ web.
 
 Este projeto foi desenvolvido em grupo como atividade acadêmica.
 
-**Integrantes:**
-- Gustavo Dermínio dos Santos
-- Gabriel Melo
-- Daniel
-- Carlos
-- Kayke
+O desenvolvimento foi realizado de forma colaborativa utilizando
+Git e GitHub.
 
-## 📚 Contexto
+## 📚 Contexto acadêmico
 
 Projeto desenvolvido durante a graduação como atividade prática
-de desenvolvimento web e utilização do Git/GitHub.
+de desenvolvimento web, organização de código e utilização do
+GitHub para versionamento e colaboração.
