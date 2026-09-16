@@ -40,6 +40,13 @@ Este projeto foi desenvolvido em grupo como atividade acadêmica.
 O desenvolvimento foi realizado de forma colaborativa utilizando
 Git e GitHub.
 
+**Integrantes:**
+- Gustavo Dermínio dos Santos
+- Gabriel Melo
+- Daniel
+- Carlos
+- Kayke
+
 ## 📚 Contexto acadêmico
 
 Projeto desenvolvido durante a graduação como atividade prática
